@@ -1,16 +1,17 @@
-### Hi there 👋
+### Всем привет, меня зовут Саша 👋
 
-<!--
-**Hidison/Hidison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий Frontend разработчик на React JS.
+- 📖 Люблю изучать всё новое!
+- 💡 Хочу познать все тонкости в Web разработке!
+- 💻 Хочу поработать над крупным проектом.
+- 👍 Стремлюсь писать чистый код!
+- 💪 Хочу работать в компании с опытными коллегами.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Языки и инструменты:**  
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-ffe400?style=plastic&logo=javascript&logoColor=ffffff) ![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=plastic&logo=typescript&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/-CSS3-0d57a7?style=?style=plastic&logo=css3&logoColor=ffffff) ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=?style=plastic&logo=html5&logoColor=ffffff) ![ReactJS](https://img.shields.io/badge/-ReactJS-45b8d8?style=?style=plastic&logo=react&logoColor=ffffff) ![Redux](https://img.shields.io/badge/-Redux-764abc?style=?style=plastic&logo=redux&logoColor=ffffff) ![JSON](https://img.shields.io/badge/-JSON-202020?style=?style=plastic&logo=json&logoColor=ffffff) ![npm](https://img.shields.io/badge/-npm-cb3837?style=?style=plastic&logo=npm&logoColor=ffffff) ![git](https://img.shields.io/badge/-git-f05032?style=?style=plastic&logo=git&logoColor=ffffff) ![NodeJS](https://img.shields.io/badge/-Node.js-43853d?style=?style=plastic&logo=node.js&logoColor=ffffff) ![Webpack](https://img.shields.io/badge/-Webpack-8dd6f9?style=?style=plastic&logo=webpack&logoColor=ffffff)
+
+**📈Моя статистика:**  
+
+![Hidison's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hidison&hide=contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hidison&layout=compact)](https://github.com/Hidison?tab=repositories)
