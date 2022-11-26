@@ -16,9 +16,9 @@
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=Hidison&hide=contribs&show_icons=true">
-  <img  align="left" height="150" style="margin-right: 10px; margin-bottom: 10px" src="https://github-readme-stats.vercel.app/api?username=Hidison&hide=contribs&show_icons=true" />
+  <img  align="left" height="130" style="margin-right: 10px; margin-bottom: 10px" src="https://github-readme-stats.vercel.app/api?username=Hidison&hide=contribs&show_icons=true" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Hidison&layout=compact">
-  <img align="left" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hidison&layout=compact" />
+  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hidison&layout=compact" />
 </a>
 </div>
