@@ -14,7 +14,8 @@
 
 **📞Связаться со мной**    
 
-[![Facebook](https://img.shields.io/badge/-facebook-006ee6?style=plastic&logo=facebook&logoColor=ffffff)](https://www.facebook.com/profile.php?id=100008088619214) [![Telegram](https://img.shields.io/badge/-telegram-2fa8df?style=plastic&logo=telegram&logoColor=ffffff)](https://t.me/Hidison)
+[![Facebook](https://img.shields.io/badge/-Facebook-006ee6?style=plastic&logo=facebook&logoColor=ffffff)](https://www.facebook.com/profile.php?id=100008088619214) [![Telegram](https://img.shields.io/badge/-Telegram-2fa8df?style=plastic&logo=telegram&logoColor=ffffff)](https://t.me/Hidison)
+[![VK](https://img.shields.io/badge/-ВКонтакте-0077ff?style=plastic&logo=vk&logoColor=ffffff)](https://vk.com/id80166560)
 
 **📈Моя статистика:**  
 
