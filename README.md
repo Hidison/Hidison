@@ -14,7 +14,7 @@
 
 **📈Моя статистика:**  
 
-<div>
+<div style="display: flex">
 <a href="https://github-readme-stats.vercel.app/api?username=Hidison&hide=contribs&show_icons=true">
   <img  align="left" height="140" src="https://github-readme-stats.vercel.app/api?username=Hidison&hide=contribs&show_icons=true" />
 </a>
@@ -22,14 +22,8 @@
   <img align="left" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hidison&layout=compact" />
 </a>
 </div>  
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-**Связаться со мной**    
+**📞Связаться со мной**    
 
 [![Facebook](https://img.shields.io/badge/-facebook-006ee6?style=plastic&logo=facebook&logoColor=ffffff)](https://www.facebook.com/profile.php?id=100008088619214)
 [![Telegram](https://img.shields.io/badge/-telegram-2fa8df?style=plastic&logo=telegram&logoColor=ffffff)](https://t.me/Hidison)
