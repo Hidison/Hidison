@@ -22,6 +22,12 @@
   <img align="left" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hidison&layout=compact" />
 </a>
 </div>  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 **Связаться со мной**    
 
